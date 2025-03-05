@@ -24,9 +24,4 @@ Criação de um esquema conceitual para o contexto de oficina com base na narrat
 - Os mecânicos possuem código, nome, endereço e especialidade
 - Cada OS possui: n°, data de emissão, um valor, status e uma data para conclusão dos trabalhos.
 
-![](https://github.com/htonioni/mysql-oficina-bd-DIO/blob/main/oficina_imagem.png)
-
-
-
-## Certificado
-![](https://github.com/htonioni/mysql-oficina-bd-DIO/blob/main/certificado/certificado.jpg)
+![](https://github.com/SladeSouzaSantos/Modelagem-EER-Oficina---Desafio-DIO/blob/main/oficina.png)
